@@ -1,0 +1,12 @@
+<svg width="285" height="285" viewBox="0 0 285 285" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="285.005" y="284.574" width="1" height="80" transform="rotate(180 285.005 284.574)" fill="#D9D9D9"/>
+<rect x="205.003" y="284.574" width="1" height="80" transform="rotate(-90 205.003 284.574)" fill="#D9D9D9"/>
+<rect width="1" height="80" transform="matrix(1 0 0 -1 0 284.574)" fill="#D9D9D9"/>
+<rect width="1" height="80" transform="matrix(0 -1 -1 0 80.0027 284.574)" fill="#D9D9D9"/>
+<rect width="1" height="80" transform="matrix(-1 0 0 1 285.005 0.574341)" fill="#D9D9D9"/>
+<rect width="1" height="80" transform="matrix(0 1 1 0 205.003 0.574341)" fill="#D9D9D9"/>
+<rect y="0.574341" width="1" height="80" fill="#D9D9D9"/>
+<rect x="80.0027" y="0.574341" width="1" height="80" transform="rotate(90 80.0027 0.574341)" fill="#D9D9D9"/>
+<circle cx="143" cy="144.574" r="79.5" stroke="white"/>
+<path d="M212.5 144.074C212.5 182.179 181.387 213.074 143 213.074C104.613 213.074 73.5 182.179 73.5 144.074C73.5 105.97 104.613 75.0744 143 75.0744C181.387 75.0744 212.5 105.97 212.5 144.074Z" stroke="white"/>
+</svg>
